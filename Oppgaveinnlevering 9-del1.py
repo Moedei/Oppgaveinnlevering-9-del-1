@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  1 23:09:42 2021
 
-@author: sandv
+
+@author: Mathias Sandvik
 """
 class Quiz():
     def __init__(self, spm, fv, svar):
